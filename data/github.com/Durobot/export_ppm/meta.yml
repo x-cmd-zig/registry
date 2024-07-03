@@ -1,0 +1,17 @@
+author: Durobot
+name: export_ppm
+url: https://github.com/Durobot/export_ppm
+description: A couple of functions to export data as a PPM/PGM image file from your Zig code
+default_branch: main
+language: Zig
+topic:
+  - pgm
+  - pgm-format
+  - pgm-image
+  - pgm-writer
+  - ppm
+  - ppm-format
+  - ppm-image
+  - zig
+  - zig-package
+  - ziglang

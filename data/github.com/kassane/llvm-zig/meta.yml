@@ -1,0 +1,15 @@
+author: kassane
+name: llvm-zig
+url: https://github.com/kassane/llvm-zig
+description: LLVM bindings written in Zig
+default_branch: main
+language: Zig
+topic:
+  - ffi-bindings
+  - libclang
+  - llvm
+  - llvm-bindings
+  - llvm-c
+  - llvm-c-api
+  - zig
+  - zig-package

@@ -1,0 +1,13 @@
+author: Chanyon
+name: minimd-zig
+url: https://github.com/Chanyon/minimd-zig
+description: simple markdown parser
+default_branch: main
+language: Zig
+topic:
+  - markdown
+  - markdown-parser
+  - markdown-zig
+  - zig
+  - zig-package
+  - ziglang

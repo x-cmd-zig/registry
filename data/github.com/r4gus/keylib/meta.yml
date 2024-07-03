@@ -1,0 +1,18 @@
+author: r4gus
+name: keylib
+url: https://github.com/r4gus/keylib
+description: FIDO2/ PassKey compatible authentication library
+default_branch: master
+language: Zig
+topic:
+  - authentication
+  - authenticator
+  - ctap
+  - ctap2
+  - fido2
+  - passkey
+  - passkeys
+  - webauthn
+  - zig
+  - zig-package
+  - ziglang

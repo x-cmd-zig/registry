@@ -1,0 +1,15 @@
+author: cryptocode
+name: zigfsm
+url: https://github.com/cryptocode/zigfsm
+description: A finite state machine library for Zig
+default_branch: main
+language: Zig
+topic:
+  - finite-state-machine
+  - fsm
+  - fsm-library
+  - graphviz
+  - state-machine
+  - zig
+  - zig-library
+  - zig-package

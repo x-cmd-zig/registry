@@ -1,0 +1,27 @@
+author: tensorush
+name: zpin
+url: https://github.com/tensorush/zpin
+description: Zig Spin SDK.
+default_branch: main
+language: C
+topic:
+  - cloud
+  - cloud-functions
+  - cloud-native
+  - fermyon
+  - sdk
+  - serverless
+  - serverless-framework
+  - serverless-functions
+  - spin
+  - wasi
+  - wasm
+  - wasm-module
+  - wasm-modules
+  - wasm32-wasi
+  - wasmtime
+  - zig
+  - zig-lang
+  - zig-library
+  - zig-package
+  - ziglang

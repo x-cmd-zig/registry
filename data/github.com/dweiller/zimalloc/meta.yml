@@ -1,0 +1,8 @@
+author: dweiller
+name: zimalloc
+url: https://github.com/dweiller/zimalloc
+description: General purpose allocator for Zig
+default_branch: main
+language: Zig
+topic:
+  - zig-package

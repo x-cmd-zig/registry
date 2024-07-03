@@ -1,0 +1,13 @@
+author: ziglibs
+name: zlm
+url: https://github.com/ziglibs/zlm
+description: Zig linear mathemathics
+default_branch: master
+language: Zig
+topic:
+  - game-math
+  - linear-algebra
+  - opengl-math
+  - zig
+  - zig-package
+  - ziglang

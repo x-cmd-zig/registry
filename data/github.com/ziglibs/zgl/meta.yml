@@ -1,0 +1,11 @@
+author: ziglibs
+name: zgl
+url: https://github.com/ziglibs/zgl
+description: Zig OpenGL Wrapper
+default_branch: master
+language: Zig
+topic:
+  - bindings
+  - zig
+  - zig-package
+  - ziglang

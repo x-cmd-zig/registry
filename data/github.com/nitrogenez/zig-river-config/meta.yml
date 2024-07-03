@@ -1,0 +1,19 @@
+author: nitrogenez
+name: zig-river-config
+url: https://github.com/nitrogenez/zig-river-config
+description: River configuration with the power of a programming language.
+default_branch: main
+language: Zig
+topic:
+  - configuration
+  - river
+  - riverwm
+  - utility
+  - wayland
+  - wayland-compositor
+  - zig
+  - zig-lang
+  - zig-language
+  - zig-library
+  - zig-package
+  - ziglang

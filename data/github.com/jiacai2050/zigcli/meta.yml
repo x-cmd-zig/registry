@@ -1,0 +1,12 @@
+author: jiacai2050
+name: zigcli
+url: https://github.com/jiacai2050/zigcli
+description: A toolkit for building command lines programs in Zig.
+default_branch: main
+language: Zig
+topic:
+  - cli
+  - lines-of-code
+  - tree
+  - zig
+  - zig-package

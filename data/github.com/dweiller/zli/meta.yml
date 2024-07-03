@@ -1,0 +1,8 @@
+author: dweiller
+name: zli
+url: https://github.com/dweiller/zli
+description: Simple CLI parsing for Zig
+default_branch: main
+language: Zig
+topic:
+  - zig-package

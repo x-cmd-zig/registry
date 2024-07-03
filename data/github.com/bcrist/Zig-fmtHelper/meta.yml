@@ -1,0 +1,18 @@
+author: bcrist
+name: Zig-fmtHelper
+url: https://github.com/bcrist/Zig-fmtHelper
+description: Some std.fmt helpers for Zig programs
+default_branch: main
+language: Zig
+topic:
+  - formatting
+  - gigabytes
+  - kilobytes
+  - megabytes
+  - units
+  - utilities
+  - utility-library
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

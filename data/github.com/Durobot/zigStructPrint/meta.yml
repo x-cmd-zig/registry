@@ -1,0 +1,10 @@
+author: Durobot
+name: zigStructPrint
+url: https://github.com/Durobot/zigStructPrint
+description: Small library to pretty-print Zig structs (and arrays)
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package
+  - ziglang

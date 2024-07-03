@@ -1,0 +1,12 @@
+author: FObersteiner
+name: ntp-client
+url: https://github.com/FObersteiner/ntp-client
+description: NTP client app in Zig
+default_branch: master
+language: Zig
+topic:
+  - ntp
+  - ntp-client
+  - zig
+  - zig-package
+  - ziglang

@@ -1,0 +1,12 @@
+author: rdunnington
+name: bytebox
+url: https://github.com/rdunnington/bytebox
+description: Standalone WebAssembly VM.
+default_branch: main
+language: Zig
+topic:
+  - wasi
+  - wasm
+  - wasm-interpreter
+  - zig
+  - zig-package

@@ -1,0 +1,12 @@
+- name: main
+  commit: e2c0ac46c5fd6c50a0f023c37e0b26dc124abff5
+  ts: 1719010263
+- name: v0.0.3
+  commit: ce6407f8b850ceaa28bd1a749837c024bc306517
+  ts: 1718962122
+- name: v0.0.2
+  commit: a8aa339d67b38c8b8a583962e41b71ff2c744a9c
+  ts: 1718958922
+- name: v0.0.1
+  commit: 5326d3df3b386fe2023043acc90351b6c8cee111
+  ts: 1718958468

@@ -1,0 +1,9 @@
+author: liyu1981
+name: translate_c_extract
+url: https://github.com/liyu1981/translate_c_extract
+description: a simple tool to clean zig translate-c result with annotation.
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package

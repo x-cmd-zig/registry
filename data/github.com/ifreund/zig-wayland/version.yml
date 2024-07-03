@@ -1,0 +1,9 @@
+- name: master
+  commit: 092e3424345d9c0a9467771b2f629fa01560a69f
+  ts: 1718277474
+- name: v0.1.0
+  commit: 9486e96ec32653a28da2c5d9ceca6a6ab4ba2b5e
+  ts: 
+- name: v0.2.0
+  commit: 52d4022402cafda9e87379b794ff06c88bc620f3
+  ts: 

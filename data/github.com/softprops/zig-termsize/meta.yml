@@ -1,0 +1,10 @@
+author: softprops
+name: zig-termsize
+url: https://github.com/softprops/zig-termsize
+description: terminal size matters
+default_branch: main
+language: Zig
+topic:
+  - zig-library
+  - zig-package
+  - zigdex-lib

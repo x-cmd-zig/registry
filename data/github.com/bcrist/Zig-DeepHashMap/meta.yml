@@ -1,0 +1,14 @@
+author: bcrist
+name: Zig-DeepHashMap
+url: https://github.com/bcrist/Zig-DeepHashMap
+description: Zig std.HashMaps with deep keys
+default_branch: main
+language: Zig
+topic:
+  - hashmap
+  - utilities
+  - utility-library
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

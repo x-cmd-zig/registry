@@ -1,0 +1,14 @@
+author: lawrence-laz
+name: zig-enumerable
+url: https://github.com/lawrence-laz/zig-enumerable
+description: Iterator tools for functional data processing.
+default_branch: main
+language: Zig
+topic:
+  - enumerable
+  - functional
+  - iterators
+  - itertools
+  - linq
+  - zig
+  - zig-package

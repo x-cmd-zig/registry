@@ -1,0 +1,12 @@
+author: hexops
+name: mach-glfw
+url: https://github.com/hexops/mach-glfw
+description: Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more.
+default_branch: main
+language: Zig
+topic:
+  - gamedev
+  - glfw
+  - zig
+  - zig-package
+  - ziglang

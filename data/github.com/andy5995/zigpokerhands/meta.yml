@@ -1,0 +1,13 @@
+author: andy5995
+name: zigpokerhands
+url: https://github.com/andy5995/zigpokerhands
+description: A program that uses zigdeck to evaluate five cards to determine if it matches a poker hand
+default_branch: trunk
+language: Zig
+topic:
+  - cards
+  - mit-license
+  - poker
+  - simulations
+  - zig
+  - zig-package

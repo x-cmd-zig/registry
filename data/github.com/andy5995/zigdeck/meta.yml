@@ -1,0 +1,14 @@
+author: andy5995
+name: zigdeck
+url: https://github.com/andy5995/zigdeck
+description: A library that creates and shuffles a deck of cards from which you can draw
+default_branch: trunk
+language: Zig
+topic:
+  - cards
+  - library
+  - mit-license
+  - simulation
+  - zig
+  - zig-library
+  - zig-package

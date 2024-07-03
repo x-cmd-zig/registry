@@ -1,0 +1,36 @@
+- name: develop
+  commit: 1df17f0f15129179eb64033bde871bd3a0a70d05
+  ts: 1714927256
+- name: v0.2.7
+  commit: f0f751f61e3bba881ef259a941b2d85b1125eb54
+  ts: 
+- name: v0.2.6
+  commit: ea1363f4fe8e01f5e8473e7a59ba5580ab7b51b8
+  ts: 
+- name: v0.1.1
+  commit: e725b37d2488a4c8f3f68cd5bbdeb37f69c04bf3
+  ts: 
+- name: v0.2.2
+  commit: e64ce70f1f5236ead195a946e3122923886f04be
+  ts: 
+- name: v0.2.1
+  commit: c071b1b47a0dd7cc9dec83bb461ba431991e8594
+  ts: 
+- name: v0.2.4
+  commit: 7061875825d6caee5a7b03beb881849dde8d37a7
+  ts: 
+- name: v0.2.3
+  commit: 43776136015a1d5bf081fc402ae6e58c68b0eb5a
+  ts: 
+- name: v0.1.2
+  commit: 3e62ad7c80f52411cd3d451b47fdeb718db58227
+  ts: 
+- name: v0.2.0
+  commit: 32612ad2bc9486843a30e0c86675f155084405e1
+  ts: 
+- name: v0.2.5
+  commit: 29e1040a201f73939e4b092d9b30030ef81a6ffe
+  ts: 
+- name: v0.1.0
+  commit: 18d88a74562595771301e960415637903d7f2a64
+  ts: 

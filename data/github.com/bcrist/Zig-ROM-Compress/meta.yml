@@ -1,0 +1,16 @@
+author: bcrist
+name: Zig-ROM-Compress
+url: https://github.com/bcrist/Zig-ROM-Compress
+description: Simple compression scheme for sparse ROM data
+default_branch: main
+language: Zig
+topic:
+  - compression
+  - compression-algorithm
+  - embedded
+  - encoding
+  - rom
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

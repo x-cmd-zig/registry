@@ -1,0 +1,13 @@
+author: ikskuh
+name: zig-assimp
+url: https://github.com/ikskuh/zig-assimp
+description: Open Asset Importer Library built with Zig
+default_branch: master
+language: Zig
+topic:
+  - 3d-formats
+  - assimp
+  - assimp-port
+  - zig
+  - zig-package
+  - ziglang

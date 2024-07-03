@@ -1,0 +1,12 @@
+author: DISTREAT
+name: zig-csv
+url: https://github.com/DISTREAT/zig-csv
+description: A library for parsing, creating, and manipulating CSV data.
+default_branch: master
+language: Zig
+topic:
+  - csv
+  - zig
+  - zig-lib
+  - zig-library
+  - zig-package

@@ -1,0 +1,9 @@
+author: travisstaloch
+name: flatbufferz
+url: https://github.com/travisstaloch/flatbufferz
+description: a flatbuffers codegen library in zig
+default_branch: main
+language: Zig
+topic:
+  - flatbuffers
+  - zig-package

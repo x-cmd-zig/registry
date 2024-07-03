@@ -1,0 +1,11 @@
+author: karlseguin
+name: websocket.zig
+url: https://github.com/karlseguin/websocket.zig
+description: A websocket implementation for zig
+default_branch: master
+language: Zig
+topic:
+  - websocket
+  - zig
+  - zig-library
+  - zig-package

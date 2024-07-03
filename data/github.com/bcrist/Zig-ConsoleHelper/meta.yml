@@ -1,0 +1,17 @@
+author: bcrist
+name: Zig-ConsoleHelper
+url: https://github.com/bcrist/Zig-ConsoleHelper
+description: Console Helpers for command line applications
+default_branch: main
+language: Zig
+topic:
+  - console
+  - console-color
+  - stdio
+  - stdout
+  - termcolor
+  - terminal
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

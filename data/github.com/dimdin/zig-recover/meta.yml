@@ -1,0 +1,11 @@
+author: dimdin
+name: zig-recover
+url: https://github.com/dimdin/zig-recover
+description: zig panic recover
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

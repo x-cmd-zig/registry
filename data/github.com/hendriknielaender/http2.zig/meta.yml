@@ -1,0 +1,12 @@
+author: hendriknielaender
+name: http2.zig
+url: https://github.com/hendriknielaender/http2.zig
+description: HTTP/2 server for zig
+default_branch: main
+language: Zig
+topic:
+  - http-server
+  - http2
+  - zig
+  - zig-library
+  - zig-package

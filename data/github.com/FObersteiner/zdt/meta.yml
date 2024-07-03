@@ -1,0 +1,12 @@
+author: FObersteiner
+name: zdt
+url: https://github.com/FObersteiner/zdt
+description: Timezoned Datetime in Zig. For learning purposes.
+default_branch: master
+language: Zig
+topic:
+  - datetime
+  - timezones
+  - zig
+  - zig-package
+  - ziglang

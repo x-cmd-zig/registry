@@ -1,0 +1,12 @@
+author: jedisct1
+name: zigly
+url: https://github.com/jedisct1/zigly
+description: The easiest way to write services for Fastly's Compute@Edge in Zig.
+default_branch: master
+language: Zig
+topic:
+  - fastly
+  - webassembly
+  - zig
+  - zig-library
+  - zig-package

@@ -1,0 +1,14 @@
+author: natecraddock
+name: ziglua
+url: https://github.com/natecraddock/ziglua
+description: Zig bindings for the Lua C API
+default_branch: main
+language: Zig
+topic:
+  - binding
+  - library
+  - lua
+  - lua-bindings
+  - package
+  - zig
+  - zig-package

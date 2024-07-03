@@ -1,0 +1,10 @@
+author: kubkon
+name: zig-yaml
+url: https://github.com/kubkon/zig-yaml
+description: YAML parser for Zig
+default_branch: main
+language: Zig
+topic:
+  - yaml
+  - zig
+  - zig-library

@@ -1,0 +1,14 @@
+author: softprops
+name: zig-jsonlog
+url: https://github.com/softprops/zig-jsonlog
+description: format zig std logs as structured JSON
+default_branch: main
+language: Zig
+topic:
+  - json
+  - logging
+  - zig
+  - zig-library
+  - zig-package
+  - zigdex-lib
+  - ziglang

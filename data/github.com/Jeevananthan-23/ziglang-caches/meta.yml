@@ -1,0 +1,15 @@
+author: Jeevananthan-23
+name: ziglang-caches
+url: https://github.com/Jeevananthan-23/ziglang-caches
+description: In-memory cache implementation with commonly used LRU, W-LFU and S3-FIFO as the eviction policy
+default_branch: master
+language: Zig
+topic:
+  - cache
+  - lfu-cache
+  - lru-cache
+  - s3fifo
+  - sieve
+  - zig
+  - zig-package
+  - ziglang

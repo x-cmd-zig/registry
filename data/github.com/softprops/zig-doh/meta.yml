@@ -1,0 +1,13 @@
+author: softprops
+name: zig-doh
+url: https://github.com/softprops/zig-doh
+description: DNS over HTTPS client
+default_branch: main
+language: Zig
+topic:
+  - dns
+  - doh
+  - zig
+  - zig-library
+  - zig-package
+  - zigdex-lib

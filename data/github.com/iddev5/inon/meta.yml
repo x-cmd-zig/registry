@@ -1,0 +1,11 @@
+author: iddev5
+name: inon
+url: https://github.com/iddev5/inon
+description: ":floppy_disk: Data serialization format in Zig"
+default_branch: master
+language: Zig
+topic:
+  - data-format
+  - serialization
+  - zig
+  - ziglang

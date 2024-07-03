@@ -1,0 +1,12 @@
+author: ziglibs
+name: antiphony
+url: https://github.com/ziglibs/antiphony
+description: A zig remote procedure call solution
+default_branch: master
+language: Zig
+topic:
+  - rpc
+  - rpc-framework
+  - zig
+  - zig-package
+  - ziglang

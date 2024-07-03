@@ -1,0 +1,14 @@
+author: bcrist
+name: Zig-LC4k
+url: https://github.com/bcrist/Zig-LC4k
+description: Generate ispMach4000 CPLD bitstreams directly from Zig code
+default_branch: main
+language: Zig
+topic:
+  - cpld
+  - cplds
+  - lattice
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

@@ -1,0 +1,17 @@
+author: kassane
+name: anotherBuildStep
+url: https://github.com/kassane/anotherBuildStep
+description: Using zig build on others toolchains
+default_branch: main
+language: Zig
+topic:
+  - build-system
+  - cross-compilation
+  - cross-compile
+  - d
+  - dlang
+  - flang
+  - fortran
+  - rust
+  - zig
+  - zig-package

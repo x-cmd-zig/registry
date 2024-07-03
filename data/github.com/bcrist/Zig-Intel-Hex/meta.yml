@@ -1,0 +1,15 @@
+author: bcrist
+name: Zig-Intel-Hex
+url: https://github.com/bcrist/Zig-Intel-Hex
+description: Intel Hex format library in Zig
+default_branch: main
+language: Zig
+topic:
+  - encoding
+  - ihex
+  - intel-hex
+  - intelhex
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

@@ -1,0 +1,11 @@
+author: jedisct1
+name: zig-hpke
+url: https://github.com/jedisct1/zig-hpke
+description: HPKE implementation for Zig.
+default_branch: master
+language: Zig
+topic:
+  - crypto
+  - hpke
+  - zig
+  - zig-package

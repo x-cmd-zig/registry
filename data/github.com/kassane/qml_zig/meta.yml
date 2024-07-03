@@ -1,0 +1,12 @@
+author: kassane
+name: qml_zig
+url: https://github.com/kassane/qml_zig
+description: QML bindings for the Zig programming language
+default_branch: main
+language: Zig
+topic:
+  - qml-bindings
+  - qml-zig
+  - zig
+  - zig-package
+  - ziglang

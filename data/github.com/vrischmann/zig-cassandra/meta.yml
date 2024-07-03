@@ -1,0 +1,10 @@
+author: vrischmann
+name: zig-cassandra
+url: https://github.com/vrischmann/zig-cassandra
+description: Cassandra CQL client
+default_branch: master
+language: Zig
+topic:
+  - cassandra
+  - cassandra-client
+  - zig

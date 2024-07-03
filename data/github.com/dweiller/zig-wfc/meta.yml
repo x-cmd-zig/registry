@@ -1,0 +1,8 @@
+author: dweiller
+name: zig-wfc
+url: https://github.com/dweiller/zig-wfc
+description: An implementation of the wave function collapse algorithm in Zig
+default_branch: main
+language: Zig
+topic:
+  - zig-package

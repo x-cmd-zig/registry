@@ -1,0 +1,10 @@
+author: softprops
+name: zig-bson
+url: https://github.com/softprops/zig-bson
+description: zig library for working with bson data 🍃
+default_branch: main
+language: Zig
+topic:
+  - zig-library
+  - zig-package
+  - zigdex-lib

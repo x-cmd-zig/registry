@@ -1,0 +1,9 @@
+author: liyu1981
+name: zcmd.zig
+url: https://github.com/liyu1981/zcmd.zig
+description: zcmd is a single file lib to replace zig's std.childProcess.run with the ability of running pipeline like bash..
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package

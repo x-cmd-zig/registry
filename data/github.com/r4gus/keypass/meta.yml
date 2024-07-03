@@ -1,0 +1,18 @@
+author: r4gus
+name: keypass
+url: https://github.com/r4gus/keypass
+description: PassKeeZ is a FIDO2/ Passkey compatible authenticator implementation for Linux
+default_branch: master
+language: Zig
+topic:
+  - authentication
+  - authenticator
+  - authenticator-app
+  - ctap2
+  - fido2
+  - fido2-authenticator
+  - linux
+  - passkey
+  - passkeys
+  - webauthn
+  - zig-package

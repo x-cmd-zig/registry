@@ -1,0 +1,10 @@
+author: ziglibs
+name: known-folders
+url: https://github.com/ziglibs/known-folders
+description: Provides access to well-known folders across several operating systems
+default_branch: master
+language: Zig
+topic:
+  - zig
+  - zig-library
+  - zig-package

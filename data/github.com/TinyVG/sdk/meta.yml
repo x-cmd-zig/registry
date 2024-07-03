@@ -1,0 +1,12 @@
+author: TinyVG
+name: sdk
+url: https://github.com/TinyVG/sdk
+description: TinyVG software development kit
+default_branch: main
+language: Zig
+topic:
+  - sdk
+  - tinyvg
+  - vector-graphics
+  - zig
+  - zig-package

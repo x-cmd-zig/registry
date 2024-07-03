@@ -1,0 +1,15 @@
+author: bcrist
+name: Zig-SX
+url: https://github.com/bcrist/Zig-SX
+description: S-Expression [de]serialization in Zig
+default_branch: main
+language: Zig
+topic:
+  - encoding
+  - s-expression
+  - s-expressions
+  - sexp
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

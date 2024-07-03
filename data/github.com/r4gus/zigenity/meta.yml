@@ -1,0 +1,12 @@
+author: r4gus
+name: zigenity
+url: https://github.com/r4gus/zigenity
+description: Like zenity but in Zig
+default_branch: master
+language: Zig
+topic:
+  - gtk
+  - gtk3
+  - gui
+  - zig
+  - zig-package

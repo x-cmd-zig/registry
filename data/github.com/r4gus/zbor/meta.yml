@@ -1,0 +1,14 @@
+author: r4gus
+name: zbor
+url: https://github.com/r4gus/zbor
+description: CBOR parser written in Zig
+default_branch: master
+language: Zig
+topic:
+  - cbor
+  - encoder-decoder
+  - parsing
+  - rfc-8949
+  - zig
+  - zig-package
+  - ziglang

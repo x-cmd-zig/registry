@@ -1,0 +1,27 @@
+author: tensorush
+name: meduza
+url: https://github.com/tensorush/meduza
+description: Zig codebase graph generator.
+default_branch: main
+language: Zig
+topic:
+  - code
+  - code-dependency
+  - code-graph
+  - codebase
+  - codebase-walk
+  - emit
+  - emitter
+  - generation
+  - generator
+  - layout
+  - meduza
+  - mermaid
+  - mermaid-diagrams
+  - zig
+  - zig-lang
+  - zig-language
+  - zig-lib
+  - zig-library
+  - zig-package
+  - ziglang

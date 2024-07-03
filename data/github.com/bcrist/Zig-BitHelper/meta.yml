@@ -1,0 +1,15 @@
+author: bcrist
+name: Zig-BitHelper
+url: https://github.com/bcrist/Zig-BitHelper
+description: Zig utilities for low-level bit manipulation
+default_branch: main
+language: Zig
+topic:
+  - util
+  - utilities
+  - utility-library
+  - utils
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

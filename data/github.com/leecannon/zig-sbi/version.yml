@@ -1,0 +1,15 @@
+- name: master
+  commit: b71ff355807758db4832074791336e9f14f21354
+  ts: 1704737241
+- name: 1.0.0
+  commit: 8eed43a74ade787d0ec52df5a773190deb100c8a
+  ts: 
+- name: 2.0.0
+  commit: 670c03cd9a7343b38fa8dfac294f00531855c1d6
+  ts: 
+- name: 2.0.2
+  commit: 2de969b6cd048813d6548cef2838a21d737c87b5
+  ts: 
+- name: 2.0.1
+  commit: 2447f4a6c0b52611423d07441a5de731b8a7816b
+  ts: 

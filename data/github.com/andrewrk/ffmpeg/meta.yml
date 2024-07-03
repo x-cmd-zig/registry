@@ -1,0 +1,10 @@
+author: andrewrk
+name: ffmpeg
+url: https://github.com/andrewrk/ffmpeg
+description: FFmpeg Zig package
+default_branch: main
+language: C
+topic:
+  - ffmpeg
+  - zig
+  - zig-package

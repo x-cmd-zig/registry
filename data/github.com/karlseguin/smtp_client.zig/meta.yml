@@ -1,0 +1,11 @@
+author: karlseguin
+name: smtp_client.zig
+url: https://github.com/karlseguin/smtp_client.zig
+description: SMTP client for Zig
+default_branch: master
+language: Zig
+topic:
+  - smtp-client
+  - zig
+  - zig-library
+  - zig-package

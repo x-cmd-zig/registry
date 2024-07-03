@@ -1,0 +1,9 @@
+author: zigtools
+name: zig-lsp-codegen
+url: https://github.com/zigtools/zig-lsp-codegen
+description: LSP codegen based on the MetaModel
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package

@@ -1,0 +1,9 @@
+author: rdunnington
+name: zig-stable-array
+url: https://github.com/rdunnington/zig-stable-array
+description: Address-stable array with a max size that allocates directly from virtual memory.
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package

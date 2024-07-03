@@ -1,0 +1,14 @@
+author: jiacai2050
+name: zig-curl
+url: https://github.com/jiacai2050/zig-curl
+description: Zig bindings for libcurl
+default_branch: main
+language: Zig
+topic:
+  - libcurl
+  - libcurl-binding
+  - libcurl-bindings
+  - zig
+  - zig-lib
+  - zig-package
+  - ziglang

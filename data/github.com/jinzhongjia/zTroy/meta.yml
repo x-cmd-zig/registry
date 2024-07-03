@@ -1,0 +1,9 @@
+author: jinzhongjia
+name: zTroy
+url: https://github.com/jinzhongjia/zTroy
+description: a zig library
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package

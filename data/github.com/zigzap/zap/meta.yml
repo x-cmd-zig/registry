@@ -1,0 +1,14 @@
+author: zigzap
+name: zap
+url: https://github.com/zigzap/zap
+description: blazingly fast backends in zig
+default_branch: master
+language: C
+topic:
+  - api
+  - blazingly
+  - fast
+  - http
+  - rest
+  - zig
+  - zig-package

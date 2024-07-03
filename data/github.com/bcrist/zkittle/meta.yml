@@ -1,0 +1,16 @@
+author: bcrist
+name: zkittle
+url: https://github.com/bcrist/zkittle
+description: A little Zig template engine
+default_branch: main
+language: Zig
+topic:
+  - file-format
+  - template
+  - template-engine
+  - templates
+  - vscode-extension
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

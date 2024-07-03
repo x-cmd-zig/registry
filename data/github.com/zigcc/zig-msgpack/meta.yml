@@ -1,0 +1,11 @@
+author: zigcc
+name: zig-msgpack
+url: https://github.com/zigcc/zig-msgpack
+description: zig messagpack implementation / msgpack.org[zig]
+default_branch: main
+language: Zig
+topic:
+  - msgpack
+  - msgpack-rpc
+  - zig
+  - zig-package

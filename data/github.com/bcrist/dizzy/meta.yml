@@ -1,0 +1,12 @@
+author: bcrist
+name: dizzy
+url: https://github.com/bcrist/dizzy
+description: Zig Comptime Dependency Injection
+default_branch: main
+language: Zig
+topic:
+  - dependency-injection
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

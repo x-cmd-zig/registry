@@ -1,0 +1,9 @@
+author: kubkon
+name: zacho
+url: https://github.com/kubkon/zacho
+description: Zig's Mach-O parser
+default_branch: master
+language: Zig
+topic:
+  - zig
+  - zig-package

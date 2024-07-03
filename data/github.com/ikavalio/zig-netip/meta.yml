@@ -1,0 +1,11 @@
+author: ikavalio
+name: zig-netip
+url: https://github.com/ikavalio/zig-netip
+description: A simple IP address library for zig
+default_branch: main
+language: Zig
+topic:
+  - ip
+  - zig
+  - zig-package
+  - ziglang

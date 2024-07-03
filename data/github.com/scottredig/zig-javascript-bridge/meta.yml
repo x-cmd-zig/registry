@@ -1,0 +1,8 @@
+author: scottredig
+name: zig-javascript-bridge
+url: https://github.com/scottredig/zig-javascript-bridge
+description: Easily call Javascript from Zig wasm
+default_branch: main
+language: Zig
+topic:
+  - zig-package

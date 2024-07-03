@@ -1,0 +1,18 @@
+author: zigimg
+name: zigimg
+url: https://github.com/zigimg/zigimg
+description: Zig library for reading and writing different image formats
+default_branch: master
+language: Zig
+topic:
+  - bitmap
+  - bmp
+  - image
+  - image-processing
+  - netpbm
+  - pcx
+  - png
+  - png-decoder
+  - zig
+  - zig-library
+  - zig-package

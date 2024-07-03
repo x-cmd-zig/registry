@@ -1,0 +1,10 @@
+author: vrischmann
+name: zig-prometheus
+url: https://github.com/vrischmann/zig-prometheus
+description: Prometheus/VictoriaMetrics client library for Zig
+default_branch: master
+language: Zig
+topic:
+  - prometheus
+  - victoriametrics
+  - zig

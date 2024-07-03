@@ -1,0 +1,10 @@
+author: liyu1981
+name: jstring.zig
+url: https://github.com/liyu1981/jstring.zig
+description: a reusable string lib for myself with all familiar methods methods can find in javascript string
+default_branch: main
+language: Zig
+topic:
+  - jstring
+  - zig
+  - zig-package

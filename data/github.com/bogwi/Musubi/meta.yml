@@ -1,0 +1,13 @@
+author: bogwi
+name: Musubi
+url: https://github.com/bogwi/Musubi
+description: All purpose Graph in ZIG
+default_branch: master
+language: Zig
+topic:
+  - data-structures
+  - graph
+  - graph-algorithms
+  - zig
+  - zig-package
+  - ziglang

@@ -1,0 +1,11 @@
+author: karlseguin
+name: pg.zig
+url: https://github.com/karlseguin/pg.zig
+description: Native PostgreSQL driver / client for Zig
+default_branch: master
+language: Zig
+topic:
+  - postgresql-client
+  - zig
+  - zig-library
+  - zig-package

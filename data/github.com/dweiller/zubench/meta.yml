@@ -1,0 +1,8 @@
+author: dweiller
+name: zubench
+url: https://github.com/dweiller/zubench
+description: Micro benchmarking in zig
+default_branch: main
+language: Zig
+topic:
+  - zig-package

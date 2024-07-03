@@ -1,0 +1,11 @@
+author: johan0A
+name: gc.zig
+url: https://github.com/johan0A/gc.zig
+description: a Zig garbage collector interface for the bdwgc garbage collector.
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

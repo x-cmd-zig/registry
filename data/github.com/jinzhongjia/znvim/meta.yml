@@ -1,0 +1,11 @@
+author: jinzhongjia
+name: znvim
+url: https://github.com/jinzhongjia/znvim
+description: neovim remote rpc client implementation with zig
+default_branch: main
+language: Zig
+topic:
+  - neovim
+  - neovim-remote
+  - zig
+  - zig-package

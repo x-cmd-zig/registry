@@ -1,0 +1,12 @@
+author: ikskuh
+name: TextEditor
+url: https://github.com/ikskuh/TextEditor
+description: A backbone for text editors. No rendering, no input, but everything else.
+default_branch: main
+language: Zig
+topic:
+  - text
+  - text-editor
+  - unicode
+  - zig
+  - zig-package

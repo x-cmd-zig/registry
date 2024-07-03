@@ -1,0 +1,8 @@
+author: allyourcodebase
+name: zlib
+url: https://github.com/allyourcodebase/zlib
+description: zlib ported to the zig build system
+default_branch: main
+language: Zig
+topic:
+  - zig-package

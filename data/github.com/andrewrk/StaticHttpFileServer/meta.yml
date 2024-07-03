@@ -1,0 +1,8 @@
+author: andrewrk
+name: StaticHttpFileServer
+url: https://github.com/andrewrk/StaticHttpFileServer
+description: Zig module for serving a directory of files from memory via HTTP
+default_branch: main
+language: Zig
+topic:
+  - zig-package

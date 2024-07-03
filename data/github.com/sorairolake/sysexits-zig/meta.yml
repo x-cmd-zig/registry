@@ -1,0 +1,13 @@
+author: sorairolake
+name: sysexits-zig
+url: https://github.com/sorairolake/sysexits-zig
+description: The system exit codes as defined by <sysexits.h> for Zig
+default_branch: develop
+language: Zig
+topic:
+  - exitcode
+  - sysexits
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

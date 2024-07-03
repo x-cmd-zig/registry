@@ -1,0 +1,11 @@
+author: ziglibs
+name: lscolors
+url: https://github.com/ziglibs/lscolors
+description: A zig library for colorizing paths according to LS_COLORS
+default_branch: master
+language: Zig
+topic:
+  - ls-colors
+  - zig
+  - zig-package
+  - ziglang

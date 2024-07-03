@@ -1,0 +1,13 @@
+author: kassane
+name: druntime-zigbuild
+url: https://github.com/kassane/druntime-zigbuild
+description: D runtime build using zig-build
+default_branch: main
+language: D
+topic:
+  - build-system
+  - cross-compile
+  - d
+  - dlang
+  - zig-build
+  - zig-package

@@ -1,0 +1,10 @@
+author: rutgerbrf
+name: zig-nkeys
+url: https://github.com/rutgerbrf/zig-nkeys
+description: NKeys support for Zig
+default_branch: master
+language: Zig
+topic:
+  - nats
+  - nkeys
+  - zig

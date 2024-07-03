@@ -1,0 +1,10 @@
+author: Calder-Ty
+name: multihash
+url: https://github.com/Calder-Ty/multihash
+description: Zig Multihash implementation
+default_branch: master
+language: Zig
+topic:
+  - multiformats
+  - zig-package
+  - ziglang

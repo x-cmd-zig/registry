@@ -1,0 +1,19 @@
+author: Lumi-Engine
+name: lumi
+url: https://github.com/Lumi-Engine/lumi
+description: The main Lumi engine repo
+default_branch: main
+language: Zig
+topic:
+  - gamedev
+  - gamedev-framework
+  - gamedev-library
+  - gamedevelopment
+  - zig
+  - zig-lang
+  - zig-language
+  - zig-lib
+  - zig-library
+  - zig-package
+  - zig-programming-language
+  - ziglang

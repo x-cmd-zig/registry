@@ -1,0 +1,15 @@
+author: bogwi
+name: SortedMap
+url: https://github.com/bogwi/SortedMap
+description: Map for fast storing key-value pairs sorted by key
+default_branch: master
+language: Zig
+topic:
+  - map
+  - skiplist
+  - sorted-data
+  - sorted-map
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

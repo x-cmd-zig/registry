@@ -1,0 +1,13 @@
+author: bogwi
+name: pieQ
+url: https://github.com/bogwi/pieQ
+description: Priority Queue for Zig
+default_branch: master
+language: Zig
+topic:
+  - algorithms
+  - data-structures
+  - priority-queue
+  - zig
+  - zig-lang
+  - zig-package

@@ -1,0 +1,24 @@
+author: hexops
+name: mach
+url: https://github.com/hexops/mach
+description: zig game engine & graphics toolkit
+default_branch: main
+language: Zig
+topic:
+  - 2d
+  - 3d
+  - composable
+  - cross-platform
+  - ecs
+  - entity-component-system
+  - game-development
+  - game-engine
+  - gamedev
+  - graphics
+  - gui
+  - open-source
+  - steam-deck
+  - webassembly
+  - webgpu
+  - zig
+  - ziglang

@@ -1,0 +1,15 @@
+author: ikskuh
+name: LoLa
+url: https://github.com/ikskuh/LoLa
+description: LoLa is a small programming language meant to be embedded into games.
+default_branch: master
+language: Zig
+topic:
+  - compiler
+  - interpreter
+  - language
+  - lola-language
+  - programming-language
+  - script-language
+  - zig
+  - zig-package

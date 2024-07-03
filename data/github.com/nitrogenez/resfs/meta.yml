@@ -1,0 +1,21 @@
+author: nitrogenez
+name: resfs
+url: https://github.com/nitrogenez/resfs
+description: File system abstraction layer for Zig games and apps
+default_branch: main
+language: Zig
+topic:
+  - abstraction
+  - files
+  - filesystem
+  - filesystem-library
+  - gamedev
+  - gamedev-library
+  - games
+  - zig
+  - zig-lang
+  - zig-language
+  - zig-lib
+  - zig-library
+  - zig-package
+  - ziglang

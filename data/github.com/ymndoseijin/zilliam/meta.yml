@@ -1,0 +1,12 @@
+author: ymndoseijin
+name: zilliam
+url: https://github.com/ymndoseijin/zilliam
+description: A Geometric Algebra library for Zig
+default_branch: main
+language: Zig
+topic:
+  - 3d-graphics
+  - clifford-algebras
+  - geometric-algebra
+  - zig
+  - zig-package

@@ -1,0 +1,11 @@
+author: chadwain
+name: rem
+url: https://github.com/chadwain/rem
+description: An HTML parsing library, written in Zig.
+default_branch: master
+language: Zig
+topic:
+  - dom
+  - html
+  - parser
+  - zig

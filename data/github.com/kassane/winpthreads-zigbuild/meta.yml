@@ -1,0 +1,9 @@
+author: kassane
+name: winpthreads-zigbuild
+url: https://github.com/kassane/winpthreads-zigbuild
+description: The Winpthreads Library for Zig toolchain
+default_branch: main
+language: C
+topic:
+  - mingw-w64
+  - zig-package

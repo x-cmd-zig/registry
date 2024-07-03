@@ -1,0 +1,8 @@
+author: hexops
+name: mach-gpu-dawn
+url: https://github.com/hexops/mach-gpu-dawn
+description: Google's Dawn WebGPU implementation, cross-compiled with Zig into a single static library
+default_branch: main
+language: Zig
+topic:
+  - zig-package

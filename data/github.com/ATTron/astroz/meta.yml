@@ -1,0 +1,23 @@
+author: ATTron
+name: astroz
+url: https://github.com/ATTron/astroz
+description: Astronomical and Spacecraft Toolkit Written in Zig for Zig!
+default_branch: main
+language: Zig
+topic:
+  - astro
+  - astronomy
+  - astrophysics
+  - ccsds
+  - celestial-bodies
+  - celestial-coordinates
+  - radio
+  - radio-frequency
+  - rf
+  - space
+  - spacecraft
+  - toolkit
+  - vita
+  - zig
+  - zig-library
+  - zig-package

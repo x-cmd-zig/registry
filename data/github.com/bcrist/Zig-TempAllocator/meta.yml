@@ -1,0 +1,14 @@
+author: bcrist
+name: Zig-TempAllocator
+url: https://github.com/bcrist/Zig-TempAllocator
+description: Arena allocator for interactive programs and simulations
+default_branch: main
+language: Zig
+topic:
+  - allocator
+  - utilities
+  - utility-library
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

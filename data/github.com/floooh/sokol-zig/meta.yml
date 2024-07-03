@@ -1,0 +1,11 @@
+author: floooh
+name: sokol-zig
+url: https://github.com/floooh/sokol-zig
+description: Zig bindings for the sokol headers (https://github.com/floooh/sokol)
+default_branch: master
+language: C
+topic:
+  - crossplatform
+  - sokol
+  - zig
+  - zig-package

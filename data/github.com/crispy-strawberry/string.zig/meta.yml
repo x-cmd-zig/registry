@@ -1,0 +1,11 @@
+author: crispy-strawberry
+name: string.zig
+url: https://github.com/crispy-strawberry/string.zig
+description: A Rust like String type for Zig
+default_branch: main
+language: Zig
+topic:
+  - string
+  - zig
+  - zig-package
+  - ziglang

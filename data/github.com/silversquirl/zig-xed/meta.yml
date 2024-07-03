@@ -1,0 +1,13 @@
+author: silversquirl
+name: zig-xed
+url: https://github.com/silversquirl/zig-xed
+description: Intel X86 Encoder Decoder library, as a Zig package
+default_branch: main
+language: Zig
+topic:
+  - assembly
+  - x86
+  - x86-64
+  - x86-assembly
+  - zig
+  - zig-package

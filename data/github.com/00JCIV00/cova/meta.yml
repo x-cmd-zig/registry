@@ -1,0 +1,14 @@
+author: 00JCIV00
+name: cova
+url: https://github.com/00JCIV00/cova
+description: Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.
+default_branch: main
+language: Zig
+topic:
+  - clap
+  - cli
+  - command-line
+  - terminal
+  - zig
+  - zig-package
+  - ziglang

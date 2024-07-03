@@ -1,0 +1,10 @@
+author: fig-eater
+name: zig-function-overloading
+url: https://github.com/fig-eater/zig-function-overloading
+description: Explicit function overloading for the Zig programming language
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package
+  - ziglang

@@ -1,0 +1,9 @@
+author: liyu1981
+name: tmpfile.zig
+url: https://github.com/liyu1981/tmpfile.zig
+description: a convenient util to use tmp files with zig
+default_branch: master
+language: Zig
+topic:
+  - zig
+  - zig-package

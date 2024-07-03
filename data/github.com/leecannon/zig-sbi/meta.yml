@@ -1,0 +1,17 @@
+author: leecannon
+name: zig-sbi
+url: https://github.com/leecannon/zig-sbi
+description: Zig wrapper around the RISC-V SBI specification
+default_branch: master
+language: Zig
+topic:
+  - opensbi
+  - osdev
+  - risc-v
+  - riscv
+  - riscv32
+  - riscv64
+  - sbi
+  - zig
+  - zig-package
+  - ziglang

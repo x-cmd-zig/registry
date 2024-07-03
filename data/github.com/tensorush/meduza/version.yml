@@ -1,0 +1,51 @@
+- name: main
+  commit: 1fd08fa1021f812d1a2ef1c83baf3c71c6427730
+  ts: 1718969970
+- name: v1.8.0
+  commit: 68325d96c5ed09cd0cd9fcab02acd5250adf8104
+  ts: 1691245751
+- name: v1.6.2
+  commit: 23769b82dfb4002278f4aa6e31f1a4162f3f9d53
+  ts: 1690552557
+- name: v1.6.1
+  commit: 00201244b659514039f042fd39332dab188efe41
+  ts: 1690542802
+- name: v1.6.0
+  commit: 59fb6c75c1e479906b03d86999a32d1cf4cc59e8
+  ts: 1690489288
+- name: v1.4.0
+  commit: f032ad81be729030ff5c2af65ca680bb0a0d3e46
+  ts: 1690310535
+- name: v1.2.0
+  commit: ffb1fa9f5620727397be2efbbdff56e01bf560e9
+  ts: 1690223193
+- name: v1.1.0
+  commit: f4e9ea95abdd197a64d958be6614bd9716342fb5
+  ts: 1690205195
+- name: v1.9.4
+  commit: d22e63604bdb5ab392a9fb4d2d1d809be9a7cbd8
+  ts: 
+- name: v1.9.2
+  commit: cefc90e4c1ab3a6c3974050deede196b2e6e5a67
+  ts: 
+- name: v1.9.3
+  commit: cb333b37e736e3245fc14fa38b7a0e1b0cb8e5b7
+  ts: 
+- name: v1.9.5
+  commit: c9bd3a3ce696655c9a5ed8d26c40cf042521ec3c
+  ts: 
+- name: v1.9.6
+  commit: c6265424af8962e5e53191300859fd866edfc506
+  ts: 
+- name: v1.9.7
+  commit: 7a7204ff8d3cd8e10e0bb5b34ac0fa2e0cc62b5c
+  ts: 
+- name: v1.9.1
+  commit: 79d342a60e6a79e2d359f6ba9e15f252ad24525a
+  ts: 
+- name: v1.10.0
+  commit: 5b6e70546544b1ba79eb6816e66e8d5d9dd0dd83
+  ts: 
+- name: v1.9.8
+  commit: 513757a5f4ead2072c12e104879760dc037c7b44
+  ts: 

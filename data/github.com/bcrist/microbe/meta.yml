@@ -1,0 +1,15 @@
+author: bcrist
+name: microbe
+url: https://github.com/bcrist/microbe
+description: Embedded Zig framework for ARM microcontrollers
+default_branch: main
+language: Zig
+topic:
+  - cortex-m
+  - embedded
+  - rpi-pico
+  - stm32
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

@@ -1,0 +1,11 @@
+author: softprops
+name: zig-envy
+url: https://github.com/softprops/zig-envy
+description: parse env variables into zig structs
+default_branch: main
+language: Zig
+topic:
+  - environment-variables
+  - zig
+  - zig-package
+  - zigdex-lib

@@ -1,0 +1,14 @@
+author: blockkwork
+name: ja3-spoof
+url: https://github.com/blockkwork/ja3-spoof
+description: http client for zig that spoofs tls/ssl ja3
+default_branch: main
+language: Zig
+topic:
+  - curl
+  - ja3
+  - spoof
+  - ssl
+  - tls
+  - zig
+  - zig-package

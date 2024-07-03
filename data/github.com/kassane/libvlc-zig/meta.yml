@@ -1,0 +1,13 @@
+author: kassane
+name: libvlc-zig
+url: https://github.com/kassane/libvlc-zig
+description: Zig bindings for libVLC media framework.
+default_branch: main
+language: Zig
+topic:
+  - bindings
+  - libvlc
+  - libvlc-zig
+  - zig
+  - zig-library
+  - zig-package

@@ -1,0 +1,9 @@
+author: ifreund
+name: zig-wayland
+url: https://github.com/ifreund/zig-wayland
+description: "[mirror] Zig wayland scanner and libwayland bindings"
+default_branch: master
+language: Zig
+topic:
+  - wayland
+  - zig

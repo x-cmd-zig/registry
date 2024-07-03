@@ -1,0 +1,11 @@
+author: batiati
+name: mustache-zig
+url: https://github.com/batiati/mustache-zig
+description: Logic-less templates for Zig
+default_branch: master
+language: Zig
+topic:
+  - mustache
+  - mustache-templating
+  - zig-package
+  - ziglang

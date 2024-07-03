@@ -1,0 +1,18 @@
+author: capy-ui
+name: capy
+url: https://github.com/capy-ui/capy
+description: 💻Build one codebase and get native UI on Windows, Linux and Web
+default_branch: master
+language: Zig
+topic:
+  - cross-platform
+  - cross-platform-gui
+  - gui
+  - gui-library
+  - linux
+  - ui
+  - user-interface
+  - windows
+  - zig
+  - zig-package
+  - ziglang

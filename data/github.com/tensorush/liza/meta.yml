@@ -1,0 +1,27 @@
+author: tensorush
+name: liza
+url: https://github.com/tensorush/liza
+description: Zig codebase initializer.
+default_branch: main
+language: Zig
+topic:
+  - codebase
+  - codebase-generation
+  - example-project
+  - init
+  - initializer
+  - project-template
+  - repository
+  - starter
+  - starter-template
+  - template
+  - template-project
+  - template-repository
+  - zig
+  - zig-executable
+  - zig-init
+  - zig-lang
+  - zig-language
+  - zig-package
+  - zig-template
+  - ziglang

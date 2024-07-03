@@ -1,0 +1,13 @@
+author: Hejsil
+name: zig-clap
+url: https://github.com/Hejsil/zig-clap
+description: Simple command line argument parsing library
+default_branch: master
+language: Zig
+topic:
+  - clap
+  - command-line-arguments-parser
+  - parser
+  - zig
+  - zig-library
+  - zig-package

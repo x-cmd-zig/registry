@@ -1,0 +1,8 @@
+author: andrewrk
+name: libmp3lame
+url: https://github.com/andrewrk/libmp3lame
+description: libmp3lame with the build system replaced by zig
+default_branch: main
+language: C
+topic:
+  - zig-package

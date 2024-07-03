@@ -1,0 +1,16 @@
+author: jedisct1
+name: zig-bounded-array
+url: https://github.com/jedisct1/zig-bounded-array
+description: BoundedArray module for Zig.
+default_branch: main
+language: Zig
+topic:
+  - array
+  - arrayvec
+  - bounded
+  - boundedarray
+  - tinyvec
+  - zig
+  - zig-lib
+  - zig-package
+  - ziglang

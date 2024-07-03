@@ -1,0 +1,11 @@
+author: swaywm
+name: zig-wlroots
+url: https://github.com/swaywm/zig-wlroots
+description: "[mirror] Zig bindings for wlroots"
+default_branch: master
+language: Zig
+topic:
+  - bindings
+  - wayland
+  - wlroots
+  - zig

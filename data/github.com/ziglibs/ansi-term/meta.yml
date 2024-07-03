@@ -1,0 +1,11 @@
+author: ziglibs
+name: ansi-term
+url: https://github.com/ziglibs/ansi-term
+description: Zig library for dealing with ANSI terminals
+default_branch: master
+language: Zig
+topic:
+  - ansi-terminal
+  - zig
+  - zig-package
+  - ziglang

@@ -1,0 +1,33 @@
+- name: master
+  commit: c776a1eb82d3e698a0d54e1a17539fbeb1526b14
+  ts: 1715284943
+- name: 0.1.6
+  commit: e4058948f2d1abd9b0cc87a88731f61a4f9635ab
+  ts: 
+- name: 0.1.4
+  commit: a84a4b05ff495c8ab8d1dcf178f000c79acb5796
+  ts: 
+- name: 0.1.3
+  commit: a47a587f2fc666bf1c0dd4d4fab9539072dde8b2
+  ts: 
+- name: 0.1.7
+  commit: 86020cb21dd6607411bec12710850ab23792d353
+  ts: 
+- name: 0.1.0
+  commit: 5a79ae0b5111b1636278fe79b30424503cd7219d
+  ts: 
+- name: 0.1.5
+  commit: 243cc662462ac0dec8f86b75bce085e5ff96fb50
+  ts: 
+- name: 0.1.2
+  commit: 21bea3e4dbb165a13c05abb2914355cfe91a9c57
+  ts: 
+- name: 0.1.9
+  commit: 20fef28bdc70729d7aa4d616e87db346a4dcf566
+  ts: 
+- name: 0.1.8
+  commit: 081248d75127d6f853f4d08028e909dbb1a450af
+  ts: 
+- name: 0.1.1
+  commit: 058c90f298d53b1dbc1608493e7adc903dbe32a1
+  ts: 

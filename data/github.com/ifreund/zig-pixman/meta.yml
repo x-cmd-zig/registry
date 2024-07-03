@@ -1,0 +1,9 @@
+author: ifreund
+name: zig-pixman
+url: https://github.com/ifreund/zig-pixman
+description: "[mirror] Zig bindings for pixman"
+default_branch: master
+language: Zig
+topic:
+  - pixman
+  - zig

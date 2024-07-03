@@ -1,0 +1,11 @@
+author: Durobot
+name: zon_get_fields
+url: https://github.com/Durobot/zon_get_fields
+description: Utility functions to get field values from the abstract syntax tree generated from ZON (Zig Object Notation) text using Zig stdlib
+default_branch: main
+language: Zig
+topic:
+  - zig
+  - zig-package
+  - ziglang
+  - zon

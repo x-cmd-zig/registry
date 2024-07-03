@@ -1,0 +1,11 @@
+author: karlseguin
+name: http.zig
+url: https://github.com/karlseguin/http.zig
+description: An HTTP/1.1 server for zig
+default_branch: master
+language: Zig
+topic:
+  - http-server
+  - zig
+  - zig-library
+  - zig-package

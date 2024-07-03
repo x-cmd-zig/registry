@@ -1,0 +1,9 @@
+author: ifreund
+name: zig-xkbcommon
+url: https://github.com/ifreund/zig-xkbcommon
+description: "[mirror] Zig bindings for xkbcommon"
+default_branch: master
+language: Zig
+topic:
+  - xkbcommon
+  - zig

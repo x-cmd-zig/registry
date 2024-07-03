@@ -1,0 +1,11 @@
+author: karlseguin
+name: zul
+url: https://github.com/karlseguin/zul
+description: zig utility library
+default_branch: master
+language: Zig
+topic:
+  - uuidv4
+  - uuidv7
+  - zig
+  - zig-package

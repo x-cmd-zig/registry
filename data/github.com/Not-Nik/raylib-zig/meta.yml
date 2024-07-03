@@ -1,0 +1,14 @@
+author: Not-Nik
+name: raylib-zig
+url: https://github.com/Not-Nik/raylib-zig
+description: Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib
+default_branch: devel
+language: Zig
+topic:
+  - binding
+  - bindings
+  - game-development
+  - gamedev
+  - raylib
+  - zig
+  - zig-package

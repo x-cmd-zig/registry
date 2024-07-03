@@ -1,0 +1,14 @@
+author: bcrist
+name: zig-percent-encoding
+url: https://github.com/bcrist/zig-percent-encoding
+description: Percent (URL) Encoding and Decoding for Zig
+default_branch: main
+language: Zig
+topic:
+  - encoding
+  - percent-encoding
+  - urlencode
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

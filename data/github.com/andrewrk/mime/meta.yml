@@ -1,0 +1,8 @@
+author: andrewrk
+name: mime
+url: https://github.com/andrewrk/mime
+description: zig package for mapping extensions to mime types 
+default_branch: main
+language: Zig
+topic:
+  - zig-package

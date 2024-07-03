@@ -1,0 +1,15 @@
+author: Hejsil
+name: mecha
+url: https://github.com/Hejsil/mecha
+description: A parser combinator library for Zig
+default_branch: master
+language: Zig
+topic:
+  - functional
+  - parser
+  - parser-combinators
+  - parser-library
+  - parsers
+  - zig
+  - zig-library
+  - zig-package

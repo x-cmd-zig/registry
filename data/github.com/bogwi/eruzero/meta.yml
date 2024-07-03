@@ -1,0 +1,14 @@
+author: bogwi
+name: eruzero
+url: https://github.com/bogwi/eruzero
+description: Bullet-Train fast hashmap for Zig
+default_branch: master
+language: Zig
+topic:
+  - benchmark
+  - data-structures
+  - hashmap
+  - hashtable
+  - zig
+  - zig-package
+  - ziglang

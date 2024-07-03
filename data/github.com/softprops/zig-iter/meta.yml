@@ -1,0 +1,11 @@
+author: softprops
+name: zig-iter
+url: https://github.com/softprops/zig-iter
+description: iterators for zig
+default_branch: main
+language: Zig
+topic:
+  - iterator
+  - zig
+  - zig-library
+  - zig-package

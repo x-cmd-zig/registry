@@ -1,0 +1,15 @@
+author: bcrist
+name: Zig-S-Records
+url: https://github.com/bcrist/Zig-S-Records
+description: Motorola S-Record library in Zig
+default_branch: main
+language: Zig
+topic:
+  - encoding
+  - s-record
+  - srec
+  - srecord
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

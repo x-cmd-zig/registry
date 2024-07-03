@@ -1,0 +1,7 @@
+author: kora-org
+name: limine
+url: https://github.com/kora-org/limine
+description: Zig bindings of the Limine boot protocol
+default_branch: main
+language: Zig
+topic:

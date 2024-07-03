@@ -1,0 +1,9 @@
+author: travisstaloch
+name: clarp
+url: https://github.com/travisstaloch/clarp
+description: A command line argument parsing library in zig
+default_branch: main
+language: Zig
+topic:
+  - zig-library
+  - zig-package

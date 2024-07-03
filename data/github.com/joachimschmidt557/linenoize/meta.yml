@@ -1,0 +1,10 @@
+author: joachimschmidt557
+name: linenoize
+url: https://github.com/joachimschmidt557/linenoize
+description: A port of linenoise to zig
+default_branch: master
+language: Zig
+topic:
+  - readline
+  - zig
+  - zig-package

@@ -1,0 +1,14 @@
+author: bcrist
+name: shittip
+url: https://github.com/bcrist/shittip
+description: Another shitty HTTP server
+default_branch: main
+language: Zig
+topic:
+  - http
+  - http-server
+  - server
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

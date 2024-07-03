@@ -1,0 +1,12 @@
+author: karlseguin
+name: zuckdb.zig
+url: https://github.com/karlseguin/zuckdb.zig
+description: A DuckDB driver for Zig
+default_branch: master
+language: Zig
+topic:
+  - duckdb
+  - duckdb-driver
+  - zig
+  - zig-library
+  - zig-package

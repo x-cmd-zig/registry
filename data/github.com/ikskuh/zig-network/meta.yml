@@ -1,0 +1,14 @@
+author: ikskuh
+name: zig-network
+url: https://github.com/ikskuh/zig-network
+description: A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP
+default_branch: master
+language: Zig
+topic:
+  - networking
+  - tcp
+  - tcp-client
+  - tcp-server
+  - udp
+  - zig
+  - zig-package

@@ -1,0 +1,14 @@
+author: bcrist
+name: zbox
+url: https://github.com/bcrist/zbox
+description: SVG Block Diagram Generator
+default_branch: main
+language: Zig
+topic:
+  - block-diagram
+  - blockdiagram
+  - svg
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

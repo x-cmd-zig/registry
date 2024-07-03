@@ -1,0 +1,8 @@
+author: allyourcodebase
+name: pipewire
+url: https://github.com/allyourcodebase/pipewire
+description: pipewire ported to the zig build system
+default_branch: main
+language: Zig
+topic:
+  - zig-package

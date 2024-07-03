@@ -1,0 +1,13 @@
+author: by-nir
+name: aws-sdk-zig
+url: https://github.com/by-nir/aws-sdk-zig
+description: 🟧 AWS SDK for the Zig programming language
+default_branch: main
+language: Zig
+topic:
+  - aws
+  - aws-sdk
+  - cloud
+  - sdk
+  - zig
+  - zig-package

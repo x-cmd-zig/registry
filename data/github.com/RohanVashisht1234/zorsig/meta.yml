@@ -1,0 +1,8 @@
+author: RohanVashisht1234
+name: zorsig
+url: https://github.com/RohanVashisht1234/zorsig
+description: 'Zorsig is a memory-safe, high-performance Morse code library for Zig, offering efficient encoding and decoding with proper allocator handling. '
+default_branch: main
+language: Zig
+topic:
+  - zig-package

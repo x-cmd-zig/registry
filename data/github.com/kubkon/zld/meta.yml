@@ -1,0 +1,10 @@
+author: kubkon
+name: zld
+url: https://github.com/kubkon/zld
+description: Zig's ld drop-in replacement
+default_branch: main
+language: Zig
+topic:
+  - linker
+  - zig
+  - zig-package

@@ -1,0 +1,18 @@
+author: bcrist
+name: tempora
+url: https://github.com/bcrist/tempora
+description: Simple Zig Dates/Times/Timezones
+default_branch: main
+language: Zig
+topic:
+  - calendar
+  - date
+  - datetime
+  - time
+  - tz
+  - tzdata
+  - tzinfo
+  - zig
+  - zig-library
+  - zig-package
+  - ziglang

@@ -1,0 +1,11 @@
+author: karlseguin
+name: mqttz
+url: https://github.com/karlseguin/mqttz
+description: MQTT client for Zig
+default_branch: master
+language: Zig
+topic:
+  - mqtt-client
+  - zig
+  - zig-library
+  - zig-package

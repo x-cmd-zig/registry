@@ -1,0 +1,10 @@
+author: lun-4
+name: zigdig
+url: https://github.com/lun-4/zigdig
+description: naive dns client library in zig
+default_branch: master
+language: Zig
+topic:
+  - dns
+  - zig
+  - zig-package

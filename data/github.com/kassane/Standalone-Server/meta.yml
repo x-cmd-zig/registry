@@ -1,0 +1,9 @@
+author: kassane
+name: Standalone-Server
+url: https://github.com/kassane/Standalone-Server
+description: Asio standalone C++ HTTP/S Server (uses zig build-system)
+default_branch: zig-pkg
+language: C++
+topic:
+  - cpp
+  - zig-package
