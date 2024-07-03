@@ -1,0 +1,13 @@
+{
+    "files.defaultLanguage": "shellscript",
+    "files.associations": {
+        "**/*.awk": "awk",
+        "**/*.json": "json",
+        "**/*.md": "markdown",
+        "**/*.yml": "yaml",
+        "**/*.py": "python",
+        "**/*.js": "javascript",
+        "**/LICENSE": "TXT",
+        "**/*": "shellscript"
+    }
+}
