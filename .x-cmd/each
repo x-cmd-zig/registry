@@ -1,0 +1,5 @@
+(
+    wsroot=$(x wsroot)
+    cd $wsroot
+    find data -name 'meta.yml' | while read -r line; do printf "%s\n" "${line%/meta.yml}"; done
+)

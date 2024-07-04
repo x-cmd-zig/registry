@@ -1,0 +1,10 @@
+(
+    cd "$(x wsroot)"
+    xw each | while read -r line; do
+        {
+            ___x_cmd_cmds cat "$line/meta.yml"
+            printf "%s\n" "version:"
+            ___x_cmd_cmds cat "$line/version.yml"
+        } | x y2j
+    done
+) | x jq -s '.'
