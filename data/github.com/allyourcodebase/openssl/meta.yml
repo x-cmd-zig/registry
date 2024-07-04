@@ -4,5 +4,6 @@ url: https://github.com/allyourcodebase/openssl
 description: openssl zig package
 default_branch: main
 language: Assembly
+folder: Security
 topic:
   - zig-package

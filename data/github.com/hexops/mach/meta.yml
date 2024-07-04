@@ -4,6 +4,7 @@ url: https://github.com/hexops/mach
 description: zig game engine & graphics toolkit
 default_branch: main
 language: Zig
+folder: Game-Development
 topic:
   - 2d
   - 3d

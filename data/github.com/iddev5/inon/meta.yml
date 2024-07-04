@@ -4,6 +4,7 @@ url: https://github.com/iddev5/inon
 description: ":floppy_disk: Data serialization format in Zig"
 default_branch: master
 language: Zig
+folder: Serialization
 topic:
   - data-format
   - serialization

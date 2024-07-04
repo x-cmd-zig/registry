@@ -1,9 +1,10 @@
 author: vrischmann
 name: zig-sqlite
 url: https://github.com/vrischmann/zig-sqlite
-description: zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. 
+description: zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig.
 default_branch: master
 language: C
 topic:
   - sqlite
   - zig
+folder: Database

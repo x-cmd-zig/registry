@@ -4,5 +4,6 @@ url: https://github.com/allyourcodebase/zlib
 description: zlib ported to the zig build system
 default_branch: main
 language: Zig
+folder: Utilities
 topic:
   - zig-package

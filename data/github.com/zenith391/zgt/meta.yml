@@ -1,7 +1,7 @@
 author: capy-ui
 name: capy
 url: https://github.com/capy-ui/capy
-description: 💻Build one codebase and get native UI on Windows, Linux and Web
+description: "\U0001F4BBBuild one codebase and get native UI on Windows, Linux and Web"
 default_branch: master
 language: Zig
 topic:
@@ -16,3 +16,4 @@ topic:
   - zig
   - zig-package
   - ziglang
+folder: Utilities

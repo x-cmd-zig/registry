@@ -6,3 +6,4 @@ default_branch: main
 language: Zig
 topic:
   - zig-package
+folder: Web

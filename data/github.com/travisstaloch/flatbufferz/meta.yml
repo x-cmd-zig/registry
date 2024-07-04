@@ -7,3 +7,4 @@ language: Zig
 topic:
   - flatbuffers
   - zig-package
+folder: Utilities

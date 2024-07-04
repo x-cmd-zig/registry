@@ -4,6 +4,7 @@ url: https://github.com/FObersteiner/ntp-client
 description: NTP client app in Zig
 default_branch: master
 language: Zig
+folder: Utilities
 topic:
   - ntp
   - ntp-client

@@ -1,8 +1,9 @@
 author: PauloCampana
 name: random_variable
 url: https://github.com/PauloCampana/random_variable
-description: RNG, density, probability and quantile functions for various distributions. 
+description: RNG, density, probability and quantile functions for various distributions.
 default_branch: main
 language: Zig
 topic:
   - zig-package
+folder: Utilities

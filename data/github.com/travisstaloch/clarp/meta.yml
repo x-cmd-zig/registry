@@ -7,3 +7,4 @@ language: Zig
 topic:
   - zig-library
   - zig-package
+folder: Command-Line

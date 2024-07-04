@@ -4,6 +4,7 @@ url: https://github.com/00JCIV00/cova
 description: Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.
 default_branch: main
 language: Zig
+folder: Command-Line
 topic:
   - clap
   - cli
