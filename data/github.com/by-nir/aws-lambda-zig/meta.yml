@@ -1,7 +1,7 @@
 author: by-nir
 name: aws-lambda-zig
 url: https://github.com/by-nir/aws-lambda-zig
-description: "\U0001F7E0 Write AWS Lambda functions in Zig programming language"
+description: "Write AWS Lambda functions in Zig programming language"
 default_branch: main
 language: Zig
 topic:
